@@ -18,4 +18,6 @@ eureka:
       defaultZone : http://47.99.205.195:8761/eureka/
   instance:
     hostname: localhost
+env:
+  test
 
